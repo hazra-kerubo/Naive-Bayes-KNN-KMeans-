@@ -1,13 +1,13 @@
 # Power line Fault Detection and Analysis
-Specifying the question
+**Specifying the question**
 
 Electrical Fault Definition: Fault in electrical equipment or apparatus is defined as an imperfection in the electrical circuit due to which current is deflected from the intended path. In other words, fault is the abnormal condition of the electrical system which damages the electrical equipment and disturbs the normal flow of the electric current.
 
-Types of Electrical Fault
+**Types of Electrical Fault**
 
 There are two main types of electric fault:
 
-Symmetrical - Symmetrical fault is one that affects each of the phases equally. Its occurence is rare and 5% of transmission-line faults are symmetrical.
+*Symmetrical *- Symmetrical fault is one that affects each of the phases equally. Its occurence is rare and 5% of transmission-line faults are symmetrical.
 
 Asymmetrical- Here, all the three phases are not affected equally unlike in symmetrical faults. Common types of asymmetric faults and their causes:
 
